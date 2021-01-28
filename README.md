@@ -1,1 +1,1 @@
-"# GameJamAssets" 
+# GameJamAssets

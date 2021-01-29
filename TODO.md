@@ -1,17 +1,23 @@
 https://assetstore.unity.com/packages/3d/environments/fantasy/isometric-pack-3d-62262
 https://github.com/UnityTechnologies/2D_IsoTilemaps
 
-- [x] grass 1, 1/2
+- [x] grass
+  - [x] 1 block
+  - [x] 1/2 block
 
 - [x] dirt 1, 1/2
+  - [x] 1 block
+  - [x] 1/2 block
 
 - [x] stone 1, 1/2
- 
+  - [x] 1 block
+  - [x] 1/2 block
+
 - [ ] collectables
 
-- [ ] stairs 1
-	1 wodden
-	1 stone
+- [x] stairs 1 block
+	- [x] 1 wodden
+	- [x] 1 stone
 
 - [ ] dirt path
 	start/end
@@ -36,7 +42,7 @@ https://github.com/UnityTechnologies/2D_IsoTilemaps
 	[x] fill
 
 - [ ] bridge
-	wodden bridge
+	[x] wodden bridge
 	stone bridge
 
 - [ ] decorations
